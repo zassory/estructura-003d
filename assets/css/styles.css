@@ -1,3 +1,7 @@
+hr{
+    display: none;
+}
+
 header h1 {
     text-transform: uppercase;
     background-color: rgb(40, 40, 142);
@@ -10,3 +14,45 @@ header h1 {
     padding-bottom: 1.1rem;
     border-radius: .3rem;
 }
+
+/* nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    list-style: none;
+    background-color: brown;
+    max-width: 90%;
+    border-radius: .3rem;
+    margin: 0 auto;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    align-items: center;
+}
+
+nav ul li{
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+
+/* @media (min-width:399px) and (max-width:686px){
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        max-width: 80%;
+        margin: 0 auto;
+        margin-top: 1rem;        
+    }
+    hr{        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: start;
+
+        width: 70%;
+        color: white;
+    }
+} */
